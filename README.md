@@ -46,7 +46,7 @@ Jednak biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania
 Co do obróbki nagrań polecam też artykuł po polsku, choć dotyczy on głosów typu „call” - [Pamuła H., Kłaczyński M., Remisiewicz M., Wszołek W. 2017. Monitoring akustyczny ptaków migrujących nocą – zagadnienia związane z automatyczną detekcją głosów. Ornis Polonica](http://www.ornis-polonica.pl/_pdf/OP58_3_187-196.pdf).
 
 ## Dodatkowe info:
-Znalazłam kilka innych (oprócz Warblr) aplikacji do rozpoznawania ptasich głosów, może kogoś zainspiruje  Jest ich więcej, sprawują się różnie.
+Znalazłam kilka innych (oprócz Warblr) aplikacji do rozpoznawania ptasich głosów, może kogoś zainspiruje. Jest ich więcej, sprawują się różnie.
 *	BirdGenie
 *	BirdNET
 *	Song Sleuth
