@@ -10,7 +10,7 @@ Poniżej wypunktowane cechy nagrań i procentowa ocena - jakiej części nagrań
 
 # 2. Rodzaje i funkcje głosów ptaków 
 
-Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj bardziej złożona i dłuższa od „call”. Do tej drugiej grupy można zaliczyć m.in. głosy kontaktowe, wabiące i alarmowe. Najczęściej są to głosy krótkie i o prostej budowie.
+Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj dużo bardziej złożona i dłuższa od „call”. Do tej drugiej grupy można zaliczyć m.in. głosy kontaktowe, wabiące i alarmowe. Najczęściej są to głosy krótkie i o prostej budowie.
 
 Dla zainteresowanych niuansami pieśni od strony ornitologicznej polecam wywiad z prof. Tomaszem Osiejukiem, prawdopodobnie najlepszym polskim specem od ptasich głosów. 
 https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptaki-spiewaja-i-dlaczego-warto-tego-sluchac.read
