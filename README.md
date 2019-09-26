@@ -10,7 +10,7 @@ Poniżej wypunktowane cechy nagrań i procentowa ocena - jakiej części nagrań
 
 # 2. Rodzaje i funkcje głosów ptaków 
 
-Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj dużo bardziej złożona i dłuższa od „call”. Przykładowy śpiew [kapturki](https://www.xeno-canto.org/491910), [pierwiosnka](https://www.xeno-canto.org/477598), [bogatki](https://www.xeno-canto.org/463492), [trzciniaka](https://www.xeno-canto.org/483906). 
+Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj dużo bardziej złożona i dłuższa od „call”. Przykładowy śpiew [kapturki](https://www.xeno-canto.org/491910), [pierwiosnka](https://www.xeno-canto.org/477598), [trznadla](https://www.xeno-canto.org/477570), [bogatki](https://www.xeno-canto.org/463492), [trzciniaka](https://www.xeno-canto.org/483906). 
 
 Do głosów typu call można zaliczyć m.in. głosy kontaktowe, wabiące i alarmowe. Kontaktowe i wabiące służą do utrzymywania ptaków w grupie podczas lotu czy żerowania np. w koronach drzew, alarmowe do ostrzegania np. gdy nadlatuje drapieżnik. Najczęściej są to głosy krótkie i o prostej budowie. Np.:[kapturka](https://www.xeno-canto.org/490832), [pierwiosnek](https://www.xeno-canto.org/496316), [trznadel](https://www.xeno-canto.org/491788), [bogatka](https://www.xeno-canto.org/464650), [trzciniak](https://www.xeno-canto.org/382169)
 
