@@ -8,12 +8,14 @@ Poniżej wypunktowane cechy nagrań i procentowa ocena - jakiej części nagrań
 * Ilość głosów w jakiejś mierze nietypowych	                               - 10%
 * Ilość nagrań z niepełną pieśnią	                                         - 5-10%
 
-# 2. Opis i charakterystyka głosów ptaków
+# 2. Rodzaje i funkcje głosów ptaków 
 
 Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj bardziej złożona i dłuższa od „call”. Do tej drugiej grupy można zaliczyć m.in. głosy kontaktowe, wabiące i alarmowe. Najczęściej są to głosy krótkie i o prostej budowie.
 
 Dla zainteresowanych niuansami pieśni od strony ornitologicznej polecam wywiad z prof. Tomaszem Osiejukiem, prawdopodobnie najlepszym polskim specem od ptasich głosów. 
 https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptaki-spiewaja-i-dlaczego-warto-tego-sluchac.read
+
+# 3. Charakterystyka głosów wybranych gatunków
 
 Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, aby wiedzieć jakie głosy są typowe i właściwe. Przygotowano w oparciu o Svensson L., Mullarney K., Zatterstrom D. 2012. Ptaki Europy i Obszaru Śródziemnomorskiego. MULTICO, Warszawa.
 
