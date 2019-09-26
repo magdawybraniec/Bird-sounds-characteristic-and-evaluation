@@ -50,8 +50,8 @@ Co do obróbki nagrań polecam też artykuł po polsku, choć dotyczy on głosó
 
 ## Dodatkowe info:
 Znalazłam kilka innych (oprócz Warblr) aplikacji do rozpoznawania ptasich głosów, może kogoś zainspiruje. Jest ich więcej, sprawują się różnie.
-*	[BirdGenie](https://press.princeton.edu/apps/birdgenie.html)
-*	[BirdNET](https://birdnet.cornell.edu)
+*	[BirdGenie](https://www.birdgenie.com)
+*	[BirdNET](https://birdnet.cornell.edu) m.in. od Stefan Kahl z BirdCLEF challenge
 *	[Song Sleuth](https://www.songsleuth.com/#/) od Wildlife Acoustics
 *	[ChirpOMatic](http://www.chirpomatic.com)
 
