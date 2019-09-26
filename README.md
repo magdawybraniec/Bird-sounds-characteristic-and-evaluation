@@ -1,12 +1,12 @@
 # 1. Ocena nagrań
 
 L.p.	Cecha nagrania	W ilu procentach nagrań występuje
-1.	  Dobra jakość głosu gatunku wiodącego (głośność, czystość) 	             80%
-2.	  Występowanie innych gatunków ptaków w tle	                               90-100%
-3.	  Występowanie innego rodzaju dźwięków w tle (inne zwierzęta, samochody)	 10%
-4.	  Występowanie innych niż ‘song’ rodzajów głosów na nagraniu	             5%
-5.	  Ilość głosów w jakiejś mierze nietypowych	                               10%
-6.	  Ilość nagrań z niepełną pieśnią	                                         5-10%
+1.	  Dobra jakość głosu gatunku wiodącego (głośność, czystość) 	             - 80%
+2.	  Występowanie innych gatunków ptaków w tle	                               - 90-100%
+3.	  Występowanie innego rodzaju dźwięków w tle (inne zwierzęta, samochody)	 - 10%
+4.	  Występowanie innych niż ‘song’ rodzajów głosów na nagraniu	             - 5%
+5.	  Ilość głosów w jakiejś mierze nietypowych	                               - 10%
+6.	  Ilość nagrań z niepełną pieśnią	                                         - 5-10%
 
 
 # 2. Opis i charakterystyka głosów ptaków
