@@ -1,17 +1,16 @@
 # 1. Ocena nagrań
 
-L.p.	Cecha nagrania	W ilu procentach nagrań występuje
-1.	  Dobra jakość głosu gatunku wiodącego (głośność, czystość) 	             - 80%
-2.	  Występowanie innych gatunków ptaków w tle	                               - 90-100%
-3.	  Występowanie innego rodzaju dźwięków w tle (inne zwierzęta, samochody)	 - 10%
-4.	  Występowanie innych niż ‘song’ rodzajów głosów na nagraniu	             - 5%
-5.	  Ilość głosów w jakiejś mierze nietypowych	                               - 10%
-6.	  Ilość nagrań z niepełną pieśnią	                                         - 5-10%
-
+Poniżej wypunktowane cechy nagrań i procentowa ocena, jakiej części nagrań ta cecha dotyczy:
+* Dobra jakość głosu gatunku wiodącego (głośność, czystość) 	             - 80%
+* Występowanie innych gatunków ptaków w tle	                               - 90-100%
+* Występowanie innego rodzaju dźwięków w tle (inne zwierzęta, samochody)	 - 10%
+* Występowanie innych niż ‘song’ rodzajów głosów na nagraniu	             - 5%
+* Ilość głosów w jakiejś mierze nietypowych	                               - 10%
+* Ilość nagrań z niepełną pieśnią	                                         - 5-10%
 
 # 2. Opis i charakterystyka głosów ptaków
 
-Ptaki wydają wiele rodzajów głosów. Różne rodzaje głosów pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Te głosy są zazwyczaj bardziej złożone i dłuższe od „call”. Do tej drugiej grupy można zaliczyć różne głosy, z których najpowszechniejsze są głosy kontaktowe, wabiące i alarmowe. Najczęściej są to głosy krótkie i o prostej budowie.
+Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj bardziej złożona i dłuższa od „call”. Do tej drugiej grupy można zaliczyć m.in. głosy kontaktowe, wabiące i alarmowe. Najczęściej są to głosy krótkie i o prostej budowie.
 
 Dla zainteresowanych niuansami pieśni od strony ornitologicznej polecam wywiad z prof. Tomaszem Osiejukiem, prawdopodobnie najlepszym polskim specem od ptasich głosów. 
 https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptaki-spiewaja-i-dlaczego-warto-tego-sluchac.read
@@ -41,7 +40,7 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 # 3. Przygotowanie plików
 W większości źródeł podaje się 5-sekundowe próbki głosów, ale znalazłam też jedną publikację, która używała m.in. 10-sekundowych [Hanna Pamuła, Maciej Kłaczyński, Magdalena Remisiewicz, Wiesław Wszołek , Dan Stowell, 2017. Adaptation of deep learning methods to nocturnal bird audio monitoring. Polskie Towarzystwo Akustyczne](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf). 
 
-Jednak biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania 5-sekundowe - żadne z naszych gatunków nie są do siebie podobne, więc nie powinno być problemu z odróżnianiem ich. Nawet gdy piosenki będą ucięte, takie nagrania powinny być wystarczające. 
+Biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania 5-sekundowe,bo żadne z naszych gatunków nie są do siebie podobne, więc nie powinno być problemu z odróżnianiem ich. Nawet gdy piosenki będą ucięte, takie nagrania powinny być wystarczające. 
 
 Co do obróbki nagrań polecam też artykuł po polsku, choć dotyczy on głosów typu „call” - [Pamuła H., Kłaczyński M., Remisiewicz M., Wszołek W. 2017. Monitoring akustyczny ptaków migrujących nocą – zagadnienia związane z automatyczną detekcją głosów. Ornis Polonica](http://www.ornis-polonica.pl/_pdf/OP58_3_187-196.pdf).
 
