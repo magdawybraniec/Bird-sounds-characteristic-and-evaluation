@@ -1,6 +1,6 @@
 # 1. Ocena nagrań
 
-Poniżej wypunktowane cechy nagrań i procentowa ocena, jakiej części nagrań ta cecha dotyczy:
+Poniżej wypunktowane cechy nagrań i procentowa ocena - jakiej części nagrań ta cecha dotyczy:
 * Dobra jakość głosu gatunku wiodącego (głośność, czystość) 	             - 80%
 * Występowanie innych gatunków ptaków w tle	                               - 90-100%
 * Występowanie innego rodzaju dźwięków w tle (inne zwierzęta, samochody)	 - 10%
