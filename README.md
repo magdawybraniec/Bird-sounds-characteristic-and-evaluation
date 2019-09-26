@@ -13,7 +13,7 @@ L.p.	Cecha nagrania	W ilu procentach nagrań występuje
 
 Ptaki wydają wiele rodzajów głosów. Różne rodzaje głosów pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Te głosy są zazwyczaj bardziej złożone i dłuższe od „call”. Do tej drugiej grupy można zaliczyć różne głosy, z których najpowszechniejsze są głosy kontaktowe, wabiące i alarmowe. Najczęściej są to głosy krótkie i o prostej budowie.
 
-Dla lepszego zrozumienia złożoności tematu polecam wywiad z prof. Tomaszem Osiejukiem, prawdopodobnie najlepszym polskim specem od ptasich głosów. 
+Dla zainteresowanych niuansami pieśni od strony ornitologicznej polecam wywiad z prof. Tomaszem Osiejukiem, prawdopodobnie najlepszym polskim specem od ptasich głosów. 
 https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptaki-spiewaja-i-dlaczego-warto-tego-sluchac.read
 
 Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, aby wiedzieć jakie głosy są typowe i właściwe. Przygotowano w oparciu o Svensson L., Mullarney K., Zatterstrom D. 2012. Ptaki Europy i Obszaru Śródziemnomorskiego. MULTICO, Warszawa.
@@ -39,7 +39,7 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 *	Głos inny niż pieśń (w tym kontaktowy i ostrzegawczy) – cmokające „tek”, w zaniepokojeniu powtarzane w długich seriach, „tek-tek-tek…”, czasem przeplatane przeciągłym, ochrypłym „szriih”. 
 
 # 3. Przygotowanie plików
-W większości źródeł podaje się 5-sekundowe próbki głosów, ale znalazłam też jedną publikację, która używała m.in. 10-sekundowych (Hanna Pamuła, Maciej Kłaczyński, Magdalena Remisiewicz, Wiesław Wszołek , Dan Stowell, 2017. Adaptation of deep learning methods to nocturnal bird audio monitoring. Polskie Towarzystwo Akustyczne). 
+W większości źródeł podaje się 5-sekundowe próbki głosów, ale znalazłam też jedną publikację, która używała m.in. 10-sekundowych [Hanna Pamuła, Maciej Kłaczyński, Magdalena Remisiewicz, Wiesław Wszołek , Dan Stowell, 2017. Adaptation of deep learning methods to nocturnal bird audio monitoring. Polskie Towarzystwo Akustyczne](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf). 
 
 Jednak biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania 5-sekundowe - żadne z naszych gatunków nie są do siebie podobne, więc nie powinno być problemu z odróżnianiem ich. Nawet gdy piosenki będą ucięte, takie nagrania powinny być wystarczające. 
 
