@@ -34,7 +34,7 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 *	Głos („call”) – miękkie gwiżdżące „hłiit”, lekko wznoszące i z akcentem na koniec. Późnym latem i jesienią ptaki juwenalne czasem wydają proste „hiip” [posłuchaj >>](https://www.xeno-canto.org/496316).
 
 ## Trzciniak
-*	W strukturze piosenki występują rozmaite powtarzane roztrzęsione sylaby, jest bardzo głośna, donośna, rozpoznawana po burkliwym, rechoczącym brzmieniu i powracającej serii powtarzanych przenikliwych falsetowych pisków, np. „trr trr karra-karra-karra-krie-krie-krie trr-trr-kie-kie” [posłuchaj](https://www.xeno-canto.org/483906).
+*	W strukturze piosenki występują rozmaite powtarzane roztrzęsione sylaby, jest bardzo głośna, donośna, rozpoznawana po burkliwym, rechoczącym brzmieniu i powracającej serii powtarzanych przenikliwych falsetowych pisków, np. „trr trr karra-karra-karra-krie-krie-krie trr-trr-kie-kie” [posłuchaj >>](https://www.xeno-canto.org/483906).
 *	Głos („call”) – chropawe, nieco „grube” cmokanie, „kszak” lub z lepiej słyszalną głoską „r”, „krrak”. W zaniepokojeniu twarde wibrujące „krrrrr” [posłuchaj >>](https://www.xeno-canto.org/382169).
 
 ## Trznadel
