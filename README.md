@@ -44,7 +44,7 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 # 3. Przygotowanie plików
 W większości źródeł podaje się 5-sekundowe próbki głosów, ale znalazłam też jedną publikację, która używała m.in. 10-sekundowych [Hanna Pamuła, Maciej Kłaczyński, Magdalena Remisiewicz, Wiesław Wszołek , Dan Stowell, 2017. Adaptation of deep learning methods to nocturnal bird audio monitoring. Polskie Towarzystwo Akustyczne](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf). 
 
-Biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania 5-sekundowe,bo żadne z naszych gatunków nie są do siebie podobne, więc nie powinno być problemu z odróżnianiem ich. Nawet gdy piosenki będą ucięte, takie nagrania powinny być wystarczające. 
+Biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania 5-sekundowe, bo żadne z naszych gatunków nie są do siebie podobne, więc nie powinno być problemu z odróżnianiem ich. Nawet gdy piosenki będą ucięte, takie nagrania powinny być wystarczające. 
 
 Co do obróbki nagrań polecam też artykuł po polsku, choć dotyczy on głosów typu „call” - [Pamuła H., Kłaczyński M., Remisiewicz M., Wszołek W. 2017. Monitoring akustyczny ptaków migrujących nocą – zagadnienia związane z automatyczną detekcją głosów. Ornis Polonica](http://www.ornis-polonica.pl/_pdf/OP58_3_187-196.pdf).
 
