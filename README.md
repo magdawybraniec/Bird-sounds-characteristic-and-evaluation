@@ -29,7 +29,7 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 
 ## Kapturka
 *	Piosenka należy do najpiękniejszych, rozpoczyna się od chaotycznego trajkotu (może być skracany lub omijany, gł. w upalne południe i w S Europie), przechodzącego w czyste, nieco melancholijne, fletowe gwizdy. Jak inne pokrzewki, czasem wykonuje wydłużony podśpiew z naśladownictw, skrzeków i zgrzytów [posłuchaj >>](https://www.xeno-canto.org/491910).
-*	Głos inny niż pieśń (w tym kontaktowy i ostrzegawczy) – cmokające „tek”, w zaniepokojeniu powtarzane w długich seriach, „tek-tek-tek…”, czasem przeplatane przeciągłym, ochrypłym „szriih” [posłuchaj >>](https://www.xeno-canto.org/490832). 
+*	Głos ("call") – cmokające „tek”, w zaniepokojeniu powtarzane w długich seriach, „tek-tek-tek…”, czasem przeplatane przeciągłym, ochrypłym „szriih” [posłuchaj >>](https://www.xeno-canto.org/490832). 
 
 ## Pierwiosnek
 *	Piosenka to seria wydawanych w jednostajnych odstępach, czystych, stanowczych, jednosylabowych (rzadko dwusylabowych) dźwięków na dwóch lub trzech tonach, „silt siult siult sult silt silt sult siult siult silt” Ptaki nowo przybyłe na lęgowiska często wtrącają między zwrotkami przytłumione „perrre perrre” [posłuchaj >>](https://www.xeno-canto.org/477598).
