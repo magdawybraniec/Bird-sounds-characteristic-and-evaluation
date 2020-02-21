@@ -48,13 +48,9 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
 <img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="300">
 
-# 3. Przygotowanie plików
-W większości źródeł podaje się 5-sekundowe próbki głosów, ale znalazłam też jedną publikację, w badaniach do której używano m.in. 10-sekundowych [Hanna Pamuła, Maciej Kłaczyński, Magdalena Remisiewicz, Wiesław Wszołek , Dan Stowell, 2017. Adaptation of deep learning methods to nocturnal bird audio monitoring. Polskie Towarzystwo Akustyczne](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf). 
+# 3. Dyskusja wyników od strony ornitologicznej 
 
-Biorąc pod uwagę wybrane przez nas gatunki, wg mnie wystarczą nagrania 5-sekundowe, bo żadne z naszych gatunków nie są do siebie podobne, więc nie powinno być problemu z odróżnianiem ich. Nawet gdy piosenki będą ucięte, takie nagrania powinny być wystarczające. 
-
-Co do obróbki nagrań polecam też artykuł po polsku, choć dotyczy on głosów typu „call” - [Pamuła H., Kłaczyński M., Remisiewicz M., Wszołek W. 2017. Monitoring akustyczny ptaków migrujących nocą – zagadnienia związane z automatyczną detekcją głosów. Ornis Polonica](http://www.ornis-polonica.pl/_pdf/OP58_3_187-196.pdf). Jest tu m.in. poruszony temat ekstrakcji głosów i porównanie metody manualnej oraz automatycznej - z użyciem dwóch programów do ekstrakcji - Kaleidoscope Pro (Wildlife Acoustics, Inc., USA) oraz Tseep-x (OldBird
-Inc., USA)
+Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj dużo bardziej złożona i dłuższa od „call”. Przykładowy śpiew [bogatki](https://www.xeno-canto.org/463492), [kapturki](https://www.xeno-canto.org/491910), [pierwiosnka](https://www.xeno-canto.org/477598), [trzciniaka](https://www.xeno-canto.org/483906), [trznadla](https://www.xeno-canto.org/477570). 
 
 ## Dodatkowe info:
 Znalazłam kilka innych (oprócz Warblr) aplikacji do rozpoznawania ptasich głosów, może kogoś zainspiruje. Jest ich więcej, sprawują się różnie.
