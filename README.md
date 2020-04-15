@@ -48,10 +48,6 @@ Poniżej opisy i transkrypcje głosów wybranych przez nas gatunków ptaków, ab
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
 <img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="300">
 
-# 3. Dyskusja wyników od strony ornitologicznej 
-
-Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj dużo bardziej złożona i dłuższa od „call”. Przykładowy śpiew [bogatki](https://www.xeno-canto.org/463492), [kapturki](https://www.xeno-canto.org/491910), [pierwiosnka](https://www.xeno-canto.org/477598), [trzciniaka](https://www.xeno-canto.org/483906), [trznadla](https://www.xeno-canto.org/477570). 
-
 ## Dodatkowe info:
 Znalazłam kilka innych (oprócz Warblr) aplikacji do rozpoznawania ptasich głosów, może kogoś zainspiruje. Jest ich więcej, sprawują się różnie.
 *	[BirdGenie](https://www.birdgenie.com)
